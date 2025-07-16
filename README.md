@@ -30,7 +30,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📈 Lenguajes más usados
+## 📈 Most Used Languages
 
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=paulisuden&layout=compact&theme=radical)
 
